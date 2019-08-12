@@ -1,5 +1,7 @@
 # Create A VPC on AWS
 
+# Reference
+https://youtu.be/fpxDGU2KdkA
 
 ![aws_vpc](images/aws_vpc.PNG)
 ![aws_vpc_1](images/aws_vpc_1.PNG)
