@@ -1,6 +1,10 @@
 # Create A VPC on AWS
 
 
+![aws_vpc](aws_vpc.PNG)
+![aws_vpc_1](aws_vpc_1.PNG)
+![aws_vpc_limits](aws_vpc_limits.PNG)
+
 ## 1. Create VPC
 Name tag:
 CIDR block: 10.0.1.0/16
@@ -10,7 +14,7 @@ Tenacy: Default
 ## 4. Route Table
 ## 5. NAT
 ## 6. Security and Network ACLs
-
+![vpc_network_acl](aws_network_acl.PNG)
 
 
 
